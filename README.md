@@ -30,4 +30,4 @@ There is an additional `.py` file that runs the necessary code to merge surveys 
 The main findings of the code can be found at the post available [here](https://medium.com/@viveknakhate007/six-goswamis-of-vrindavan-dec86d823d7e?sk=619a1ce38a48e433e5f3edac674e6914).
 
 ## 5. Licensing, Authors, Acknowledgements<a name="licensing"></a>
-Must give credit to Stack Overflow for the data.  You can find the Licensing for the data and other descriptive information at the following link available [here](https://insights.stackoverflow.com/survey).  Otherwise, feel free to use the code here as you would like! 
+Must give credit to Stack Overflow for the data.  You can find the Licensing for the data and other descriptive information at the following link available [here](https://insights.stackoverflow.com/survey).  
