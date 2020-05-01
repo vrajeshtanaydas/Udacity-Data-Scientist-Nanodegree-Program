@@ -1,4 +1,4 @@
-# Analysis questionnaire in multiple years
+# Project-1
 
 --------------------------------------
 1. [Installation](#installation)
@@ -27,7 +27,7 @@ There are 1 notebooks available here to showcase work related to the above quest
 There is an additional `.py` file that runs the necessary code to merge surveys in different years and visualize the results of above questions.
 
 ## 4. Results <a name="results"></a>
-The main findings of the code can be found at the post available [here](https://medium.com/@524022279/six-trends-about-developer-from-2011-to-2018-fac7f237567e).
+The main findings of the code can be found at the post available [here]https://medium.com/@viveknakhate007/six-goswamis-of-vrindavan-dec86d823d7e?sk=619a1ce38a48e433e5f3edac674e6914
 
 ## 5. Licensing, Authors, Acknowledgements<a name="licensing"></a>
 Must give credit to Stack Overflow for the data.  You can find the Licensing for the data and other descriptive information at the following link available [here](https://insights.stackoverflow.com/survey).  Otherwise, feel free to use the code here as you would like! 
